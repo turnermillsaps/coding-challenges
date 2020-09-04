@@ -1,0 +1,7 @@
+The man who would be King!:
+Men come from all around to find out who will be king.
+The legend says that whomever possess the sword at the end of the trial will be king.
+The trial is simple:
+The men go one at a time killing the man next to them with the sword and then passing it on.
+The first man always gets the sword first and kills the man next in line, the sword then passes to the next living man in line and it repeats in a circle until only one man remains. The King!
+Solve this problem with Perl, assume that the number of participants is set at the beginning of the trial so no need to worry about new comers.
